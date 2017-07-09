@@ -1,0 +1,3 @@
+# A Little Background
+
+This is a collaborative effort to collate all the projects made in Zambia as well as highlight the work of Zambian developers. It is based on projects that have come before it like [Made in Romania](https://github.com/IonicaBizau/made-in-romania), [Made in Nigeria](https://github.com/acekyd/made-in-nigeria), [Made in Ghana](https://github.com/devcongress/made-in-ghana) & others.
