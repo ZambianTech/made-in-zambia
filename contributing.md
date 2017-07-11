@@ -1,4 +1,4 @@
-# Made in Zambia 
+# Growing & Improving Made in Zambia 
 
 ## Contributing a Project
 
