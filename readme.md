@@ -31,7 +31,7 @@
 ## <a name="R"> </a>R
 ## <a name="S"> </a>S
 
-* [Silhouette](https://github.com/twoSeats/Silhouette) - :bust_in_silhouette: Quick frontend profile page for Laravel building on the default Laravel 5.4 Authentication scaffolding. **By [@twoSeats](https://twitter.com/twoSeats)**
+* [Silhouette](https://github.com/twmbx/silhouette) - :bust_in_silhouette: Quick frontend profile page boilerplate for Laravel. Builds on top of the default Laravel 5 auth scaffolding. **By [@twmbx](https://twitter.com/twmbx)**
 
 ## <a name="T"> </a>T
 ## <a name="U"> </a>U
