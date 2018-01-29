@@ -6,6 +6,7 @@
 ## <a name="C"> </a>C
 ## <a name="D"> </a>D
 ## <a name="E"> </a>E
+* [ExPassAuth](https://github.com/tumbone/ExPassAuth) - Simple NodeJs (ExpressJs + PassportJs) server-side app used to manage users and authenticate requests in a Client + Api Architecture . Endpoint authorization is implemented by using JSON Web Tokens. **By [@tumbone](https://twitter.com/tumbone)**
 ## <a name="F"> </a>F
 ## <a name="G"> </a>G
 
