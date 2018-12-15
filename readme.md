@@ -37,6 +37,8 @@
 
 * [Silhouette](https://github.com/twmbx/silhouette) - :bust_in_silhouette: Quick frontend profile page boilerplate for Laravel. Builds on top of the default Laravel 5 auth scaffolding. **By [@twmbx](https://twitter.com/twmbx)**
 
+* [SparkEd](https://github.com/SparkEdUAB/SparkEd) - Software for organizing and presenting educational and training content for delivery on most platforms. **By [@olivierjm](https://twitter.com/olivierjmm)**
+
 ## <a name="T"> </a>T
 ## <a name="U"> </a>U
 ## <a name="V"> </a>V
