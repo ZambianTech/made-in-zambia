@@ -30,9 +30,14 @@
 
 ## <a name="Q"> </a>Q
 ## <a name="R"> </a>R
+
+* [repo-query](https://github.com/OlivierJM/react-github-api) - uses GraphQL with github API to search for a user and show their repositories instantly, you can check it out [live here](https://repo-query.netlify.com/). **By [@olivierjm](https://twitter.com/olivierjmm)**
+
 ## <a name="S"> </a>S
 
 * [Silhouette](https://github.com/twmbx/silhouette) - :bust_in_silhouette: Quick frontend profile page boilerplate for Laravel. Builds on top of the default Laravel 5 auth scaffolding. **By [@twmbx](https://twitter.com/twmbx)**
+
+* [SparkEd](https://github.com/SparkEdUAB/SparkEd) - Software for organizing and presenting educational and training content for delivery on most platforms. **By [@olivierjm](https://twitter.com/olivierjmm)**
 
 ## <a name="T"> </a>T
 ## <a name="U"> </a>U
