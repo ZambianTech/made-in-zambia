@@ -11,6 +11,7 @@
 ## <a name="E"> </a>E
 * [ExPassAuth](https://github.com/tumbone/ExPassAuth) - Simple NodeJs (ExpressJs + PassportJs) server-side app used to manage users and authenticate requests in a Client + Api Architecture . Endpoint authorization is implemented by using JSON Web Tokens. **By [@tumbone](https://twitter.com/tumbone)**
 ## <a name="F"> </a>F
+* [Faker Zambia](https://github.com/twmbx/faker-zambia) - A PHP provider for [fzaninotto/Faker](https://github.com/fzaninotto/Faker) that adds the ability to generate fake data for the Zambian context. This package enables the developer to generate Zambian Names, Companies and Phone Numbers. **By [@twmbx](https://twitter.com/twmbx)**
 ## <a name="G"> </a>G
 
 * [Gwizo](https://github.com/kampsy/gwizo) - Simple Go implementation of the Porter Stemmer algorithm with powerful features.
