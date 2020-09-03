@@ -45,6 +45,9 @@
 
 ## <a name="T"> </a>T
 ## <a name="U"> </a>U
+
+* [User Switching for WooCommerce](https://github.com/Mvesesani/woocommerce-user-switching) - An extension to the [User Switching](https://github.com/johnbillion/user-switching) WordPress plugin. It adds links to the "Orders" and "Order Detail" pages of WooCommerce that allow shop managers and site admins to quickly switch to customer profiles.. **By [@Mvesesani](https://twitter.com/mvesesani), [@twmbx](https://twitter.com/twmbx)**
+
 ## <a name="V"> </a>V
 ## <a name="W"> </a>W
 
