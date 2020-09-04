@@ -7,6 +7,9 @@
 * [Bible-Playlist-Generator](https://github.com/engineervix/Bible-Playlist-Generator) - A python script that generates an m3u playlist of 10 Bible Chapters (represented by 10 mp3 files) to be listened to on any given day x, according to [Professor Grant Horner's Bible-Reading System](http://www.thevinefellowship.com/10Lists.pdf). The audio Bible is the ESV dramatized version, as downloaded from the [Faith Comes by Hearing® website](http://www.bible.is/audiodownloader). **By [@engineervix](https://twitter.com/engineervix)**
 
 ## <a name="C"> </a>C
+
+* [Cyn SMS SDK](https://github.com/cynojine/cynsms-api) - Cyn SMS SDK is a composer package build for Cyn SMS - Bulk SMS Application For BulkSMS Marketing.. **By [@kazashim](https://twitter.com/cynojinetech)**
+
 ## <a name="D"> </a>D
 ## <a name="E"> </a>E
 * [ExPassAuth](https://github.com/tumbone/ExPassAuth) - Simple NodeJs (ExpressJs + PassportJs) server-side app used to manage users and authenticate requests in a Client + Api Architecture . Endpoint authorization is implemented by using JSON Web Tokens. **By [@tumbone](https://twitter.com/tumbone)**
