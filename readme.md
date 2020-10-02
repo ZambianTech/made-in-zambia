@@ -8,6 +8,7 @@
 
 ## <a name="C"> </a>C
 
+* [cookiecutter-pyproject](https://github.com/engineervix/cookiecutter-pyproject) - A simple [Cookiecutter](https://github.com/audreyr/cookiecutter) template to quickly bootstrap a new [python](https://www.python.org/) project. **By [@engineervix](https://twitter.com/engineervix)**
 * [Cyn SMS SDK](https://github.com/cynojine/cynsms-api) - Cyn SMS SDK is a composer package build for Cyn SMS - Bulk SMS Application For BulkSMS Marketing.. **By [@kazashim](https://twitter.com/cynojinetech)**
 
 ## <a name="D"> </a>D
