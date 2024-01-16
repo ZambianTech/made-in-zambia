@@ -45,6 +45,8 @@
 * [SparkEd](https://github.com/SparkEdUAB/SparkEd) - Software for organizing and presenting educational and training content for delivery on most platforms. **By [@olivierjm](https://twitter.com/olivierjmm)**
 
 ## <a name="T"> </a>T
+* * [Tic Tac Toe Game](https://github.com/domitechnshimba/TicTacToe) - Play the classic Tic-Tac-Toe game (also called Noughts and Crosses) for free online with one or two players using andriod phone **By [@Am Dominic 🧑🏾‍💻](https://twitter.com/dominicnshimba)**
+
 ## <a name="U"> </a>U
 
 * [User Switching for WooCommerce](https://github.com/Mvesesani/woocommerce-user-switching) - An extension to the [User Switching](https://github.com/johnbillion/user-switching) WordPress plugin. It adds links to the "Orders" and "Order Detail" pages of WooCommerce that allow shop managers and site admins to quickly switch to customer profiles.. **By [@Mvesesani](https://twitter.com/mvesesani), [@twmbx](https://twitter.com/twmbx)**
